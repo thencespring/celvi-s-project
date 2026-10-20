@@ -1,14 +1,14 @@
 body {
     background-color: #FFC0CB
     font-family: sans-serif, Arial;
-    color: #FFFFFF
+    color: #FFC0CB
 }
 
 .kartu-profil {
     width: 300px;
     margin: 50px auto;
     padding: 20px;
-    background-color: baby-pink;
+    background-color: white;
     border-radius: 15px; 
     box shadow: 0 4px 8px rgba(0,0,0,0.1)
 }
